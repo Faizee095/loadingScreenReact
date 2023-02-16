@@ -8,11 +8,11 @@ const user = {
   const videos = [
     {
       id: 1,
-      title: "JavaScript in One Video",
-      views: "8.1M",
+      title: "React.js: The Documentary",
+      views: "269k",
       date: "1 week ago",
-      duration: "4:00",
-      img: "https://i.ibb.co/VpfPvcj/1.png",
+      duration: "1:18:14",
+      img: "https://cdn.pimylifeup.com/wp-content/uploads/2022/08/javascript-console.log-function-Thumbnail-NoWM.png",
       channel: {
         name: "Amazing Developer",
         avatar:
@@ -24,7 +24,7 @@ const user = {
       title: "React.js Full Course",
       views: "1.1M",
       date: "2 weeks ago",
-      img: "https://i.ibb.co/0Vwqjrw/2.png",
+      img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJm8NdHjGES8j9Dm410u5RaKrLmkjPjyobrQ&usqp=CAU",
       duration: "11:00",
       channel: {
         name: "Nice Dev",
@@ -34,10 +34,10 @@ const user = {
     },
     {
       id: 3,
-      title: "Watch my amazing day in job",
+      title: "A Day in the life of a SDE",
       views: "420K",
       date: "2 days ago",
-      img: "https://i.ibb.co/MGBtHF4/3.png",
+      img: "https://i.ytimg.com/vi/eQBvBtJd6wE/maxresdefault.jpg",
       duration: "8:00:00",
       channel: {
         name: "It Professor",
@@ -76,7 +76,7 @@ const user = {
       title: "People think I'm a master coder!",
       views: "13M",
       date: "3 days ago",
-      img: "https://i.ibb.co/mbK0N40/6.png",
+      img: "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/coding-design-template-7fdcbfed1fb311be96a282920fba8515_screen.jpg?ts=1599184512",
       duration: "06:09",
       channel: {
         name: "Devrella",
